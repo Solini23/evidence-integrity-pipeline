@@ -1,0 +1,4 @@
+experiment,tsa_url,successful,failed,median,p95,unit
+E4_tsa,https://freetsa.org/tsr,30,0,832.5,854.5,ms
+E4_tsa,http://timestamp.digicert.com,30,0,362.3,372.9,ms
+E4_tsa,http://timestamp.sectigo.com,30,0,2052.3,2289.5,ms

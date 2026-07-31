@@ -1,0 +1,2 @@
+cryptography>=42.0
+rfc3161ng>=2.1.3
